@@ -1,0 +1,2 @@
+# latex
+ contoh dokumen latex
